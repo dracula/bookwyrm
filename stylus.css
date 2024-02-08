@@ -1,0 +1,215 @@
+* {
+    border-radius: 0 !important;
+}
+::-webkit-scrollbar-track {
+    background-color: #282A36;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #BD93F9;
+}
+a,
+.menu-list a {
+    color: #BD93F9;
+}
+.menu-list a.is-active {
+    background-color: #282A36;
+}
+a:hover,
+.menu-list a:hover {
+    color: #FF79C6;
+}
+.menu-list a:hover {
+    background-color: inherit;
+}
+a:visited,
+.menu-list a:visited {
+    color: #6272A4;
+}
+a.navbar-item:focus,
+a.navbar-item:focus-within,
+a.navbar-item:hover,
+a.navbar-item.is-active,
+.navbar-link:focus,
+.navbar-link:focus-within,
+.navbar-link:hover,
+.navbar-link.is-active {
+    background-color: #44475A;
+    color: #BD93F9;
+}
+body,
+.label,
+.bw-tabs a,
+#navbar-dropdown .navbar-item,
+.menu-label,
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6,
+.table thead td,
+.table thead th,
+.navbar-item,
+.navbar-link,
+.modal-card-title,
+strong {
+    color: #F8F8F2;
+}
+.subtitle {
+    color: #F1FA8C;
+}
+#navbar-dropdown .navbar-item:hover {
+    background-color: #44475A;
+    color: #BD93F9;
+}
+.navbar,
+.card,
+.card-header,
+.card-header-title,
+.select select,
+.textarea,
+.input,
+.footer,
+.notification,
+.modal-card-head,
+.modal-card-body,
+.modal-card-foot {
+    background-color: #282A36;
+    color: #F8F8F2;
+}
+.select select,
+.textarea,
+.input {
+    border-color: #BD93F9;
+}
+.tabs a {
+    border-bottom-color: #BD93F9;
+}
+.tabs ul {
+    border-bottom-color: #BD93F9;
+}
+main,
+.table,
+.table.is-striped tbody tr:not(.is-selected):nth-child(even),
+.notification.is-light,
+.notification.shepherd-text,
+.notification.shepherd-footer,
+.notification.shepherd-button.shepherd-button-secondary {
+    background-color: #44475A;
+    color: #F8F8F2;
+}
+.has-background-secondary,
+.has-background-tertiary {
+    background-color: #282A36 !important;
+}
+.title,
+li.is-active,
+.notification .title,
+.notification .subtitle,
+.notification .content {
+    color: #F8F8F2;
+}
+.box {
+    background-color: #282A36;
+    color: #50FA7B;
+}
+details.details-panel {
+    box-shadow: 0 0 0 1px #BD93F9;
+}
+.tabs li.is-active a {
+    color: #8BE9FD !important;
+    border-bottom-color: #BD93F9 !important;
+}
+.bw-tabs.is-boxed a.is-active {
+    background-color: #282A36;
+    color: #8BE9FD;
+    border-color: #BD93F9;
+    border-bottom-color: #BD93F9 !important;
+}
+.tabs li:not(.is-active) a {
+    color: #6272A4 !important;
+}
+.button.is-primary,
+.is-primary.shepherd-button,
+.tag:not(body) {
+    background-color: #282A36;
+    color: #BD93F9;
+    border-color: #44475A;
+}
+.button.is-primary:active,
+.is-primary.shepherd-button:active,
+.button.is-primary.is-active,
+.is-primary.is-active.shepherd-button,
+.button.is-primary:hover,
+.is-primary.shepherd-button:hover,
+.button.is-primary.is-hovered,
+.is-primary.is-hovered.shepherd-button {
+    background-color: #282A36;
+    color: #FF79C6;
+    border-color: #44475A;
+}
+.button.is-light,
+.button.shepherd-text,
+.button.shepherd-footer,
+.is-light.shepherd-button,
+.shepherd-button.shepherd-text,
+.shepherd-button.shepherd-footer,
+.shepherd-button.shepherd-button-secondary {
+    color: #BD93F9;
+}
+.card-footer {
+    border-top: 1px solid #44475A;
+}
+.card-footer-item:not(:last-child) {
+    border-right: 1px solid #44475A;
+}
+.has-text-default {
+    color: #F8F8F2 !important;
+}
+.button,
+.shepherd-button.shepherd-button-secondary,
+.shepherd-button,
+.button.is-link,
+.is-link.shepherd-button,
+.pagination-previous,
+.pagination-next,
+.pagination-link {
+    background-color: #44475A;
+    color: #BD93F9;
+    border-color: #BD93F9;
+}
+.dropdown-content {
+    background-color: #282A36;
+    color: #F8F8F2;
+}
+.radio:hover,
+.checkbox:hover {
+    color: #FFB86C;
+}
+.select select:focus,
+.textarea:focus,
+.input:focus,
+.select select.is-focused,
+.is-focused.textarea,
+.is-focused.input,
+.select select:active,
+.textarea:active,
+.input:active,
+.select select.is-active,
+.is-active.textarea,
+.is-active.input {
+    border-color: #8BE9FD;
+}
+.select:not(.is-multiple):not(.is-loading)::after {
+    border-color: #50FA7B;
+}
+input[type="file" i] {
+    background-color: #282A36;
+    color: #FFB86C;
+    border-color: #44475A;
+}
+input#file-upload-button {
+    background-color: #282A36;
+    color: #BD93F9;
+    border-color: #44475A;
+}
