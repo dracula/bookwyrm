@@ -8,6 +8,9 @@
 
 All instructions can be found at [draculatheme.com/bookwyrm](https://draculatheme.com/bookwyrm).
 
+### Install with Stylus
+https://github.com/dhampir-damsel/dracula-bookwyrm/raw/master/dracula-bookwyrm-purple.user.css
+
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/bookwyrm/graphs/contributors).
