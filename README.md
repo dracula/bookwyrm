@@ -1,5 +1,7 @@
 # Dracula for [BookWyrm](https://joinbookwyrm.com)
 
+The other colours are coming soon!
+
 > A dark theme for [BookWyrm]([https://foobar.com](https://joinbookwyrm.com)).
 
 ![Screenshot](./screenshot.png)
