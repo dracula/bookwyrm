@@ -11,6 +11,9 @@
   color: #6272A4;
   opacity: 1; /* Firefox */
 }
+::-ms-input-placeholder { /* Edge 12-18 */
+  color: #6272A4;
+}
 a,
 .menu-list a {
     color: #BD93F9;
