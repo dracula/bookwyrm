@@ -7,6 +7,10 @@
 ::-webkit-scrollbar-thumb {
     background-color: #BD93F9;
 }
+::placeholder {
+  color: #6272A4;
+  opacity: 1; /* Firefox */
+}
 a,
 .menu-list a {
     color: #BD93F9;
