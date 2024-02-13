@@ -1,17 +1,14 @@
 # Dracula for [BookWyrm](https://joinbookwyrm.com)
 
-The other colours are coming soon!
+Other colours are coming soon!
 
-> A dark theme for [BookWyrm]([https://foobar.com](https://joinbookwyrm.com)).
+> A dark theme for [BookWyrm](<[https://foobar.com](https://joinbookwyrm.com)>).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
 All instructions can be found at [draculatheme.com/bookwyrm](https://draculatheme.com/bookwyrm).
-
-### Install with Stylus
-https://github.com/dhampir-damsel/dracula-bookwyrm/raw/master/dracula-bookwyrm-purple.user.css
 
 ## Team
 
