@@ -14,9 +14,9 @@ All instructions can be found at [draculatheme.com/bookwyrm](https://draculathem
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/bookwyrm/graphs/contributors).
 
-| [![Katherine McMillan](https://github.com/dhampir-damsel.png?size=100)](https://github.com/dhampir-damsel)
+| [![Lynn](https://github.com/dhampirdamsel.png?size=100)](https://github.com/dhampirdamsel)
 | ----------------------------------------------------------------------------------------
-| [Katherine](https://github.com/dhampir-damsel)
+| [Lynn](https://github.com/dhampirdamsel)
 
 ## Community
 
